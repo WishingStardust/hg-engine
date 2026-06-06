@@ -61,7 +61,7 @@
 
 // IMPLEMENT_TRANSPARENT_TEXTBOXES should be used if you want to implement transparent textboxes
 // uncommenting this line out will enable transparent textboxes
-// #define IMPLEMENT_TRANSPARENT_TEXTBOXES
+#define IMPLEMENT_TRANSPARENT_TEXTBOXES
 
 // IMPLEMENT_WILD_DOUBLE_BATTLES defines whether or not grass tiles will have a 10% chance of starting a wild double battle
 // commenting this line out disables wild double battles entirely
@@ -106,7 +106,7 @@
 
 // DISABLE_END_OF_TURN_WEATHER_MESSAGE removes the weather messages at the end of the turn.  instead the bottom screen icon can be used
 // uncomment the line out to get this functionality
-// #define DISABLE_END_OF_TURN_WEATHER_MESSAGE
+#define DISABLE_END_OF_TURN_WEATHER_MESSAGE
 
 // IMPLEMENT_SEASONS currently implements season mechanics. Used for changing forms of Deerling and Sawsbuck.
 // Comment the line out to disable this functionality (Gen 6+)
@@ -142,7 +142,7 @@
 #define RESTORE_ITEMS_AT_BATTLE_END
 
 // AI_CAN_GRAB_ITEMS allows to use Trick, Switcheroo, (Thief still todo) on the Player and actually grab items. This can result in lost items.
-#define AI_CAN_GRAB_ITEMS
+//#define AI_CAN_GRAB_ITEMS
 
 // PROTEAN_GENERATION defines the behavior that Protean should exhibit, where it either changes type every move (<=8) or changes type once per appearance in battle (>=9)
 #define PROTEAN_GENERATION GEN_LATEST
@@ -168,13 +168,13 @@
 #define REUSABLE_TMS
 
 // DELETABLE_HMS allows HMs to be forgotten, this also makes their quantity reduce, but the infinite TMs change prevents this.
-// #define DELETABLE_HMS
+#define DELETABLE_HMS
 
 // MART_EXPANSION allows for adding and modifying items to the mart inventories
 #define MART_EXPANSION
 
 // POKEATHLON_EXPANSION allows for adding and modifying items to the Pokéathlon shop inventories
-// #define POKEATHLON_SHOP_EXPANSION
+#define POKEATHLON_SHOP_EXPANSION
 
 // STATIC_HP_BAR updates the HP bar to increase/decrease at a fixed rate like later generations
 #define STATIC_HP_BAR
