@@ -14526,12 +14526,20 @@
         "Move": "MOVE_FURY_ATTACK"
       },
       {
+        "Level": 11,
+        "Move": "MOVE_SAND_TOMB"
+      },
+      {
         "Level": 14,
         "Move": "MOVE_PLUCK"
       },
       {
-        "Level": 19,
+        "Level": 17,
         "Move": "MOVE_DOUBLE_HIT"
+      },
+      {
+        "Level": 19,
+        "Move": "MOVE_BULLDOZE"
       },
       {
         "Level": 23,
@@ -14667,12 +14675,20 @@
         "Move": "MOVE_QUICK_ATTACK"
       },
       {
+        "Level": 7,
+        "Move": "MOVE_SAND_TOMB"
+      },
+      {
         "Level": 12,
         "Move": "MOVE_FURY_ATTACK"
       },
       {
         "Level": 15,
         "Move": "MOVE_PLUCK"
+      },
+      {
+        "Level": 17,
+        "Move": "MOVE_BULLDOZE"
       },
       {
         "Level": 19,
@@ -14689,6 +14705,10 @@
       {
         "Level": 30,
         "Move": "MOVE_ACUPRESSURE"
+      },
+      {
+        "Level": 32,
+        "Move": "MOVE_DRILL_RUN"
       },
       {
         "Level": 34,
@@ -27344,7 +27364,7 @@
       },
       {
         "Level": 9,
-        "Move": "MOVE_POISON_POWDER"
+        "Move": "MOVE_DRAINING_KISS"
       },
       {
         "Level": 12,
@@ -27636,6 +27656,10 @@
     "LevelMoves": [
       {
         "Level": 0,
+        "Move": "MOVE_DAZZLING_GLEAM"
+      },
+      {
+        "Level": 1,
         "Move": "MOVE_PETAL_DANCE"
       },
       {
@@ -27677,6 +27701,10 @@
       {
         "Level": 34,
         "Move": "MOVE_SWEET_SCENT"
+      },
+      {
+        "Level": 36,
+        "Move": "MOVE_FLORAL_HEALING"
       },
       {
         "Level": 40,
@@ -27831,7 +27859,7 @@
       },
       {
         "Level": 13,
-        "Move": "MOVE_QUICK_ATTACK"
+        "Move": "MOVE_MUD_SLAP"
       },
       {
         "Level": 19,
@@ -27992,7 +28020,7 @@
       },
       {
         "Level": 24,
-        "Move": "MOVE_DEFENSE_CURL"
+        "Move": "MOVE_MUD_SHOT"
       },
       {
         "Level": 31,
@@ -28127,6 +28155,10 @@
   },
   "SPECIES_TYPHLOSION": {
     "LevelMoves": [
+      {
+        "Level": 0,
+        "Move": "MOVE_EARTH_POWER"
+      },
       {
         "Level": 1,
         "Move": "MOVE_TACKLE"
@@ -28692,6 +28724,10 @@
   },
   "SPECIES_FERALIGATR": {
     "LevelMoves": [
+      {
+        "Level": 0,
+        "Move": "MOVE_OUTRAGE"
+      },
       {
         "Level": 1,
         "Move": "MOVE_SCRATCH"
@@ -29293,7 +29329,7 @@
       },
       {
         "Level": 9,
-        "Move": "MOVE_CONFUSION"
+        "Move": "MOVE_OMINOUS_WIND"
       },
       {
         "Level": 12,
@@ -29487,7 +29523,7 @@
       },
       {
         "Level": 28,
-        "Move": "MOVE_TAKE_DOWN"
+        "Move": "MOVE_SHADOW_BALL"
       },
       {
         "Level": 33,
