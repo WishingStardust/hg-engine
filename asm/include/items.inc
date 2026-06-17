@@ -126,7 +126,7 @@
 .equ ITEM_POKEMON_BOX,                  121 //Replaced UNKNOWN_79
 .equ ITEM_UNKNOWN_7A,                   122
 .equ ITEM_UNKNOWN_7B,                   123
-.equ ITEM_UNKNOWN_7C,                   124
+.equ ITEM_UNKNOWN_7C,                   124 //Candy Jar
 .equ ITEM_UNKNOWN_7D,                   125
 .equ ITEM_UNKNOWN_7E,                   126
 .equ ITEM_UNKNOWN_7F,                   127

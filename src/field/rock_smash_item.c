@@ -20,8 +20,8 @@ each header has a file in a253 that has 2 bytes for odds (out of 100) and 2 byte
 const u16 RockSmashItemTable[][NUM_ROCK_SMASH_ITEMS_PER_TABLE] =
 {
     { // default
-        ITEM_MAX_ETHER,
-        ITEM_REVIVE,
+        ITEM_EVERSTONE,
+        ITEM_EVERSTONE,
         ITEM_HEART_SCALE,
         ITEM_RED_SHARD,
         ITEM_BLUE_SHARD,
@@ -30,24 +30,24 @@ const u16 RockSmashItemTable[][NUM_ROCK_SMASH_ITEMS_PER_TABLE] =
         ITEM_STAR_PIECE,
     },
     { // ruins of alph
+        ITEM_EVERSTONE,
+        ITEM_EVERSTONE,
+        ITEM_HEART_SCALE,
         ITEM_RED_SHARD,
-        ITEM_YELLOW_SHARD,
-        ITEM_HELIX_FOSSIL,
-        ITEM_MAX_ETHER,
         ITEM_BLUE_SHARD,
         ITEM_GREEN_SHARD,
-        ITEM_OLD_AMBER,
-        ITEM_MAX_REVIVE,
+        ITEM_YELLOW_SHARD,
+        ITEM_STAR_PIECE,
     },
     { // cliff cave
-        ITEM_MAX_ETHER,
-        ITEM_PEARL,
-        ITEM_BIG_PEARL,
+        ITEM_EVERSTONE,
+        ITEM_EVERSTONE,
+        ITEM_HEART_SCALE,
         ITEM_RED_SHARD,
+        ITEM_BLUE_SHARD,
+        ITEM_GREEN_SHARD,
         ITEM_YELLOW_SHARD,
-        ITEM_CLAW_FOSSIL,
-        ITEM_CLAW_FOSSIL,
-        ITEM_RARE_BONE,
+        ITEM_STAR_PIECE,
     },
 };
 
