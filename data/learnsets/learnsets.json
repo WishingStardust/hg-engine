@@ -27343,7 +27343,7 @@
       },
       {
         "Level": 36,
-        "Move": "MOVE_FLORAL_HEALING"
+        "Move": "MOVE_STRENGTH_SAP"
       },
       {
         "Level": 38,
@@ -27803,43 +27803,43 @@
         "Move": "MOVE_FLAME_WHEEL"
       },
       {
-        "Level": 22,
+        "Level": 19,
         "Move": "MOVE_MUD_SHOT"
       },
       {
-        "Level": 25,
-        "Move": "MOVE_FLAME_CHARGE"
+        "Level": 22,
+        "Move": "MOVE_INCINERATE"
       },
       {
-        "Level": 30,
+        "Level": 25,
         "Move": "MOVE_BULLDOZE"
       },
       {
-        "Level": 34,
+        "Level": 30,
         "Move": "MOVE_LAVA_PLUME"
       },
       {
-        "Level": 38,
+        "Level": 33,
         "Move": "MOVE_EARTHQUAKE"
       },
       {
-        "Level": 42,
+        "Level": 36,
         "Move": "MOVE_FLAMETHROWER"
       },
       {
-        "Level": 46,
+        "Level": 39,
         "Move": "MOVE_POWER_GEM"
       },
       {
-        "Level": 50,
+        "Level": 42,
         "Move": "MOVE_EARTH_POWER"
       },
       {
-        "Level": 54,
+        "Level": 45,
         "Move": "MOVE_HEAT_WAVE"
       },
       {
-        "Level": 58,
+        "Level": 50,
         "Move": "MOVE_ERUPTION"
       }
     ],
@@ -27954,43 +27954,43 @@
         "Move": "MOVE_FLAME_WHEEL"
       },
       {
-        "Level": 22,
+        "Level": 19,
         "Move": "MOVE_MUD_SHOT"
       },
       {
-        "Level": 25,
-        "Move": "MOVE_FLAME_CHARGE"
+        "Level": 22,
+        "Move": "MOVE_INCINERATE"
       },
       {
-        "Level": 30,
+        "Level": 25,
         "Move": "MOVE_BULLDOZE"
       },
       {
-        "Level": 34,
+        "Level": 30,
         "Move": "MOVE_LAVA_PLUME"
       },
       {
-        "Level": 38,
+        "Level": 33,
         "Move": "MOVE_EARTHQUAKE"
       },
       {
-        "Level": 42,
+        "Level": 36,
         "Move": "MOVE_FLAMETHROWER"
       },
       {
-        "Level": 46,
+        "Level": 39,
         "Move": "MOVE_POWER_GEM"
       },
       {
-        "Level": 50,
+        "Level": 42,
         "Move": "MOVE_EARTH_POWER"
       },
       {
-        "Level": 54,
+        "Level": 45,
         "Move": "MOVE_HEAT_WAVE"
       },
       {
-        "Level": 58,
+        "Level": 50,
         "Move": "MOVE_ERUPTION"
       }
     ],
@@ -28111,43 +28111,43 @@
         "Move": "MOVE_FLAME_WHEEL"
       },
       {
-        "Level": 22,
+        "Level": 19,
         "Move": "MOVE_MUD_SHOT"
       },
       {
-        "Level": 25,
-        "Move": "MOVE_FLAME_CHARGE"
+        "Level": 22,
+        "Move": "MOVE_INCINERATE"
       },
       {
-        "Level": 30,
+        "Level": 25,
         "Move": "MOVE_BULLDOZE"
       },
       {
-        "Level": 34,
+        "Level": 30,
         "Move": "MOVE_LAVA_PLUME"
       },
       {
-        "Level": 38,
+        "Level": 33,
         "Move": "MOVE_EARTHQUAKE"
       },
       {
-        "Level": 42,
+        "Level": 36,
         "Move": "MOVE_FLAMETHROWER"
       },
       {
-        "Level": 46,
+        "Level": 39,
         "Move": "MOVE_POWER_GEM"
       },
       {
-        "Level": 50,
+        "Level": 42,
         "Move": "MOVE_EARTH_POWER"
       },
       {
-        "Level": 54,
+        "Level": 45,
         "Move": "MOVE_HEAT_WAVE"
       },
       {
-        "Level": 58,
+        "Level": 50,
         "Move": "MOVE_ERUPTION"
       }
     ],

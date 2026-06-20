@@ -10605,7 +10605,7 @@ movedata MOVE_CATASTROPIKA, "Catastropika"
     terminatedata
     movedescription MOVE_CATASTROPIKA, "Pikachu surrounds\nitself with maximum\nelectricity using its\nZ-Power and pounces on\nits target."
 
-movedata MOVE_SHORE_UP, "Shore Up"
+movedata MOVE_SHORE_UP, "Sedimend"
     battleeffect MOVE_EFFECT_HEAL_HALF_DIFFERENT_IN_WEATHER
     pss SPLIT_STATUS
     basepower 0
